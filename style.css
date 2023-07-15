@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Heading {
+  text-align: center;
+}
+.footer {
+  text-align: center;
+}
+.button {
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  border: 2px solid blanchedalmond;
+  border-radius: 10px;
+}
+#Gray {
+  background-color: gray;
+}
+#Red {
+  background-color: rgb(255, 2, 2);
+}
+#Green {
+  background-color: green;
+}
+#Blue {
+  background-color: blue;
+}
+.span_color {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 200px;
+  width: 100%;
+}
